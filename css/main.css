@@ -1,0 +1,13 @@
+.container {
+    align-items: center;
+}
+#ftable {
+    font-weight: bolder;
+    font-size: 2em;
+    margin-left: 100px;
+    color: blueviolet;
+}
+
+.button {
+    background-color: bisque;
+}
